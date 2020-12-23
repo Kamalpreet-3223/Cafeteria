@@ -4,6 +4,10 @@ body {
   margin-top: 70px;
 }
 
+.food {
+  background: linear-gradient(to right, rgb(6, 219, 249), rgb(252, 3, 134));
+}
+
 .zone {
   cursor: pointer;
   color: #fff;
